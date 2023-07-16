@@ -1,4 +1,4 @@
-package Interface_1;
+package Interface_1.General_Info;
 
 public class Main {
     public static void main(String[] args) {
