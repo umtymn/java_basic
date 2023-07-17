@@ -1,4 +1,4 @@
-package Interface_1.General_Info.YurtdisiCikisProgrami;
+package Interface.YurtdisiCikisProgrami;
 
 public interface YurtdisiCikisKurallari2 {
     boolean vizeKontrol2();

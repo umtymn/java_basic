@@ -1,4 +1,4 @@
-package Interface_1.General_Info.YurtdisiCikisProgrami;
+package Interface.YurtdisiCikisProgrami;
 
 
 public class Yolcu implements YurtdisiCikisKurallari2 {

@@ -1,4 +1,4 @@
-package Interface_1.General_Info;
+package Interface.GeneralInfo;
 
 public interface IMuhendis {
     void adli_sicil_kaydi();
